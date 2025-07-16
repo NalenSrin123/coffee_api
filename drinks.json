@@ -1,0 +1,168 @@
+[
+    {
+        "status":200,
+        "message":"OK",
+        "data":[
+            {
+                "id":1,
+                "name":"Café Au Lait",
+                "price":5,
+                "image":"https://i.pinimg.com/736x/50/f1/7c/50f17c380525acf16c5ad8df185b1554.jpg",
+                "rating":4,
+                "category":"Hot Coffee"
+            },
+            {
+                "id":2,
+                "name":"Coffee Art Inspiration ",
+                "price":7,
+                "image":"https://i.pinimg.com/1200x/fa/95/63/fa956306477e1be8b2974999609b6652.jpg",
+                "rating":5,
+                "category":"Hot Coffee"
+            },
+            {
+                "id":3,
+                "name":"Cappuccino",
+                "price":3,
+                "image":"https://i.pinimg.com/736x/f0/65/5f/f0655f2737da76be9b4ac435c65e3d9b.jpg",
+                "rating":5,
+                "category":"Hot Coffee"
+            },
+            {
+                "id":4,
+                "name":"Delicious ice coffee caramel",
+                "price":5,
+                "image":"https://i.pinimg.com/736x/cc/45/62/cc456290f0e29927de9a91d4524bf516.jpg",
+                "rating":3,
+                "category":"Ice Coffee"
+            },
+            {
+                "id":5,
+                "name":"Iced Latte Coffee",
+                "price":3,
+                "image":"https://i.pinimg.com/736x/27/5a/90/275a904380e89cc80d740c72a4ee7a6b.jpg",
+                "rating":5,
+                "category":"Ice Coffee"
+            },
+            {
+                "id":6,
+                "name":"Iced coffee ",
+                "price":2,
+                "image":"https://i.pinimg.com/736x/7e/cb/5c/7ecb5c293848ac5ccb9965af1128c6fa.jpg",
+                "rating":3,
+                "category":"Ice Coffee"
+            },
+            {
+                "id": 7,
+                "name": "Caramel Iced Latte",
+                "price": 3,
+                "image": "https://i.pinimg.com/736x/7e/30/f3/7e30f34e485664d45520e15d2bae6618.jpg",
+                "rating": 4,
+                "category": "Ice Coffee"
+            },
+            {
+                "id": 8,
+                "name": "Vanilla Cold Brew",
+                "price": 4,
+                "image": "https://i.pinimg.com/1200x/33/e2/22/33e2223fc22f6da9e2c5907e440cae0f.jpg",
+                "rating": 5,
+                "category": "Cold Brew"
+            },
+            {
+                "id": 9,
+                "name": "Mocha Frappuccino",
+                "price": 4,
+                "image": "https://i.pinimg.com/736x/50/e8/77/50e8775648970569a8e98d13fb10196c.jpg",
+                "rating": 4,
+                "category": "Blended"
+            },
+            {
+                "id": 10,
+                "name": "Espresso Tonic",
+                "price": 3,
+                "image": "https://i.pinimg.com/736x/6e/69/c9/6e69c9bb3b7e118d894c81e821c869ea.jpg",
+                "rating": 3,
+                "category": "Specialty"
+            },
+            {
+                "id": 11,
+                "name": "Coconut Iced Coffee",
+                "price": 3,
+                "image": "https://i.pinimg.com/736x/82/69/73/8269737f8ec6069e4297e66c9a90ab8a.jpg",
+                "rating": 4,
+                "category": "Ice Coffee"
+            },
+            {
+                "id": 12,
+                "name": "Toffee Nut Cold Brew",
+                "price": 5,
+                "image": "https://i.pinimg.com/736x/f3/03/e8/f303e8f5aa7a09e2be60077dbac33fa8.jpg",
+                "rating": 5,
+                "category": "Cold Brew"
+            },
+            {
+                "id": 13,
+                "name": "Chocolate Iced Coffee",
+                "price": 2,
+                "image": "https://i.pinimg.com/736x/f1/4e/70/f14e7007806beed9f34ff9cf733e5e52.jpg",
+                "rating": 3,
+                "category": "Ice Coffee"
+            },
+            {
+                "id": 14,
+                "name": "Hazelnut Iced Latte",
+                "price": 4,
+                "image": "https://i.pinimg.com/736x/59/c2/5e/59c25e9d88a16d8ee12b3c4888cf9203.jpg",
+                "rating": 4,
+                "category": "Ice Coffee"
+            },
+            {
+                "id": 15,
+                "name": "Iced Americano",
+                "price": 2,
+                "image": "https://i.pinimg.com/736x/0e/63/9a/0e639a2520663ebda3d28630fad240e7.jpg",
+                "rating": 4,
+                "category": "Classic"
+            },
+            {
+                "id": 16,
+                "name": "Mint Mocha Iced Coffee",
+                "price": 3,
+                "image": "https://i.pinimg.com/736x/14/f8/6e/14f86eaff6a2893354365175a753dabf.jpg",
+                "rating": 5,
+                "category": "Flavored"
+            },
+            {
+                "id": 17,
+                "name": "Salted Caramel Cold Foam",
+                "price": 5,
+                "image": "https://i.pinimg.com/736x/91/00/d2/9100d22ad2c0daa003f740f947589103.jpg",
+                "rating": 4,
+                "category": "Cold Brew"
+            },
+            {
+                "id": 18,
+                "name": "Iced Flat White",
+                "price": 3,
+                "image": "https://i.pinimg.com/736x/ac/6f/d7/ac6fd714e75f0f27ca2cede16bd188cb.jpg",
+                "rating": 4,
+                "category": "Classic"
+            },
+            {
+                "id": 19,
+                "name": "Brown Sugar Iced Latte",
+                "price": 4,
+                "image": "https://i.pinimg.com/736x/5c/3c/8d/5c3c8d7db5b5078e0a8501ab060269c8.jpg",
+                "rating": 5,
+                "category": "Ice Coffee"
+            },
+            {
+                "id": 20,
+                "name": "Pumpkin Cream Cold Brew",
+                "price": 5,
+                "image": "https://i.pinimg.com/736x/ea/32/5c/ea325c80b805b7c763e6863031fc048a.jpg",
+                "rating": 5,
+                "category": "Seasonal"
+            }
+        ] 
+    }
+]
